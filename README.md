@@ -1,34 +1,67 @@
 # Multimedia Anomaly Detection Datasets
 
 ## Overview
-This repository contains a collection of datasets for multimedia anomaly detection tasks. These datasets are sourced from various open-source projects and have been organized for easy access.
+This repository provides direct download links to a collection of publicly available datasets for multimedia anomaly detection. All datasets are hosted externally (Baidu Pan). Click the links below to download.
 
 ## Contents
-- [Dataset 1](#dataset-1)
-- [Dataset 2](#dataset-2)
+- [MVTeC AD](#mvtec-ad)
+- [VisA](#visa)
+- [MPDD](#mpdd)
+- [BTAD](#btad)
+- [KSDD](#ksdd)
+- [DTD-Synthetic](#dtd-synthetic)
+- [HeadCT](#headct)
+- [BrainMRI](#brainmri)
+- [Br35H](#br35h)
+- [ISIC](#isic)
+- [ColonDB](#colondb)
+- [ClinicDB](#clinicdb)
+- [TN3K](#tn3k)
 
-## Dataset 1
-### Description
-A brief description of the first dataset.
+---
 
-### Source
-The original source of this dataset.
+## MVTeC AD
+[Download MVTeC AD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-### Download Link
-[Download here](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+## VisA
+[Download VisA](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-## Dataset 2
-### Description
-A brief description of the second dataset.
+## MPDD
+[Download MPDD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-### Source
-The original source of this dataset.
+## BTAD
+[Download BTAD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-### Download Link
-[Download here](https://example.com/dataset2)
+## KSDD
+[Download KSDD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-## License
-Please refer to the LICENSE file for details on the licensing of these datasets.
+## DTD-Synthetic
+[Download DTD-Synthetic](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
-## Contributing
-If you find any issues or want to contribute, please feel free to open an issue or submit a pull request.
+## HeadCT
+[Download HeadCT](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## BrainMRI
+[Download BrainMRI](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## Br35H
+[Download Br35H](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## ISIC
+[Download ISIC](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## ColonDB
+[Download ColonDB](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## ClinicDB
+[Download ClinicDB](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+## TN3K
+[Download TN3K](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+
+---
+
+## Notes
+- All datasets are collected from public sources.
+- Please respect the original licenses and cite the source papers if you use them.
+- This repository only provides organized access via Baidu Pan.
