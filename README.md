@@ -24,40 +24,40 @@ This repository provides direct download links to a collection of publicly avail
 [Download MVTeC AD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
 
 ## VisA
-[Download VisA](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download VisA](https://pan.baidu.com/s/15CIsP-ulZ1AN0_3quA068w?pwd=lmgc)
 
 ## MPDD
-[Download MPDD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download MPDD](https://pan.baidu.com/s/11T3mkloDCl7Hze5znkXOQA?pwd=4p7m)
 
 ## BTAD
-[Download BTAD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download BTAD](https://pan.baidu.com/s/1f4Tq-EXRz6iAswygH2WbFg?pwd=a60n)
 
 ## KSDD
-[Download KSDD](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download KSDD](https://pan.baidu.com/s/12EaOdkSbdK85WX5ajrfjQw?pwd=6n3z)
 
 ## DTD-Synthetic
-[Download DTD-Synthetic](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download DTD-Synthetic](https://pan.baidu.com/s/16FlvIBWtjaDzWxlZfWjNeg?pwd=aq5cd)
 
 ## HeadCT
-[Download HeadCT](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download HeadCT](https://pan.baidu.com/s/16PfXWJlh6Y9vkecY9IownA?pwd=svsl)
 
 ## BrainMRI
-[Download BrainMRI](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download BrainMRI](https://pan.baidu.com/s/1UgGlTR-ABWAEiVUX-QSPhA?pwd=vh9e)
 
 ## Br35H
-[Download Br35H](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download Br35H](https://pan.baidu.com/s/1yCS6t3ht6qwJgM06YsU3mg?pwd=ps1e)
 
 ## ISIC
-[Download ISIC](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download ISIC](https://pan.baidu.com/s/1Mf0w8RFY9ECZBEoNTyV3ZA?pwd=p954)
 
 ## ColonDB
-[Download ColonDB](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download ColonDB](https://pan.baidu.com/s/1nJ4L65vfNFGpkK_OJjLoVg?pwd=v8q7)
 
 ## ClinicDB
-[Download ClinicDB](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download ClinicDB](https://pan.baidu.com/s/1TPysfqhA_sXRPLGNwWBX6Q?pwd=3da6)
 
 ## TN3K
-[Download TN3K](https://pan.baidu.com/share/init?surl=k36IMP4w32hY9BXOUM5ZmA&pwd=kxud)
+[Download TN3K](https://pan.baidu.com/s/1i5jMofCcRFcUdteq8VMEOQ?pwd=aoez)
 
 ---
 
