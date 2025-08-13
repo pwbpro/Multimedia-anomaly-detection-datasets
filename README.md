@@ -1,7 +1,7 @@
 # Multimedia Anomaly Detection Datasets
 
 ## Overview
-This repository provides direct download links to a collection of publicly available datasets for multimedia anomaly detection. All datasets are hosted externally (Baidu Pan). Click the links below to download.
+This repository provides direct download links to a collection of publicly available datasets for multimedia anomaly detection. We hope to receive more datasets of multimedia anomaly detection to continuously enrich the field of multimedia anomalies.
 
 ## Contents
 - [MVTeC AD](#mvtec-ad)
